@@ -23,11 +23,10 @@ sns.heatmap(df.drop(columns=["species"]).corr(), annot=True, cmap="coolwarm", fm
 axes[1].set_title("Heatmap of Feature Correlations")
 
 plt.tight_layout()
-plt.savefig("boxplot_heatmap_layout.png")  # Saving the figure
+plt.savefig("boxplot_heatmap_layout.png") 
 plt.show()
-
 
 df.drop(columns=["species"]).hist(figsize=(10, 6), bins=20)
 plt.suptitle("Feature Distribution Histograms")
-plt.savefig("feature_histograms.png")  # Saving the figure
+plt.savefig("feature_histograms.png") 
 plt.show()
