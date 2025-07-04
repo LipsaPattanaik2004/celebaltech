@@ -30,7 +30,7 @@ Welcome to my internship portfolio at **Celebal Technologies**, where I immersed
 - Applied **K-Means**, **DBSCAN**, and **Hierarchical Clustering**
 - Used **Silhouette Score** and **Elbow Method** for evaluation
 
-### 🗃 Week 7: SQL Basics
+###  Week 7: SQL Basics
 - Practiced **DDL**, **DML**, and **TCL** commands on sample databases
 - Queried structured data with **JOINs**, **GROUP BY**, and **Subqueries**
 
